@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/paulfischer.me/static/css/main.f5ddd33a.chunk.css",
+    "main.js": "/paulfischer.me/static/js/main.2e62c612.chunk.js",
+    "main.js.map": "/paulfischer.me/static/js/main.2e62c612.chunk.js.map",
+    "runtime-main.js": "/paulfischer.me/static/js/runtime-main.f4fd877c.js",
+    "runtime-main.js.map": "/paulfischer.me/static/js/runtime-main.f4fd877c.js.map",
+    "static/js/2.5570043e.chunk.js": "/paulfischer.me/static/js/2.5570043e.chunk.js",
+    "static/js/2.5570043e.chunk.js.map": "/paulfischer.me/static/js/2.5570043e.chunk.js.map",
+    "index.html": "/paulfischer.me/index.html",
+    "precache-manifest.9d552daeae32585bd1f91882dfe717d8.js": "/paulfischer.me/precache-manifest.9d552daeae32585bd1f91882dfe717d8.js",
+    "service-worker.js": "/paulfischer.me/service-worker.js",
+    "static/css/main.f5ddd33a.chunk.css.map": "/paulfischer.me/static/css/main.f5ddd33a.chunk.css.map",
+    "static/js/2.5570043e.chunk.js.LICENSE.txt": "/paulfischer.me/static/js/2.5570043e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4fd877c.js",
+    "static/js/2.5570043e.chunk.js",
+    "static/css/main.f5ddd33a.chunk.css",
+    "static/js/main.2e62c612.chunk.js"
+  ]
+}
