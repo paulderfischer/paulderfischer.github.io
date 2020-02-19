@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/paulfischer.me/static/css/main.f5ddd33a.chunk.css",
-    "main.js": "/paulfischer.me/static/js/main.2e62c612.chunk.js",
-    "main.js.map": "/paulfischer.me/static/js/main.2e62c612.chunk.js.map",
-    "runtime-main.js": "/paulfischer.me/static/js/runtime-main.f4fd877c.js",
-    "runtime-main.js.map": "/paulfischer.me/static/js/runtime-main.f4fd877c.js.map",
-    "static/js/2.5570043e.chunk.js": "/paulfischer.me/static/js/2.5570043e.chunk.js",
-    "static/js/2.5570043e.chunk.js.map": "/paulfischer.me/static/js/2.5570043e.chunk.js.map",
-    "index.html": "/paulfischer.me/index.html",
-    "precache-manifest.9d552daeae32585bd1f91882dfe717d8.js": "/paulfischer.me/precache-manifest.9d552daeae32585bd1f91882dfe717d8.js",
-    "service-worker.js": "/paulfischer.me/service-worker.js",
-    "static/css/main.f5ddd33a.chunk.css.map": "/paulfischer.me/static/css/main.f5ddd33a.chunk.css.map",
-    "static/js/2.5570043e.chunk.js.LICENSE.txt": "/paulfischer.me/static/js/2.5570043e.chunk.js.LICENSE.txt"
+    "main.css": "/paulderfischer.github.io/static/css/main.f5ddd33a.chunk.css",
+    "main.js": "/paulderfischer.github.io/static/js/main.a5ea9daf.chunk.js",
+    "main.js.map": "/paulderfischer.github.io/static/js/main.a5ea9daf.chunk.js.map",
+    "runtime-main.js": "/paulderfischer.github.io/static/js/runtime-main.28fdf52c.js",
+    "runtime-main.js.map": "/paulderfischer.github.io/static/js/runtime-main.28fdf52c.js.map",
+    "static/js/2.5570043e.chunk.js": "/paulderfischer.github.io/static/js/2.5570043e.chunk.js",
+    "static/js/2.5570043e.chunk.js.map": "/paulderfischer.github.io/static/js/2.5570043e.chunk.js.map",
+    "index.html": "/paulderfischer.github.io/index.html",
+    "precache-manifest.047e0f58a77f728a32440f51d5172294.js": "/paulderfischer.github.io/precache-manifest.047e0f58a77f728a32440f51d5172294.js",
+    "service-worker.js": "/paulderfischer.github.io/service-worker.js",
+    "static/css/main.f5ddd33a.chunk.css.map": "/paulderfischer.github.io/static/css/main.f5ddd33a.chunk.css.map",
+    "static/js/2.5570043e.chunk.js.LICENSE.txt": "/paulderfischer.github.io/static/js/2.5570043e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4fd877c.js",
+    "static/js/runtime-main.28fdf52c.js",
     "static/js/2.5570043e.chunk.js",
     "static/css/main.f5ddd33a.chunk.css",
-    "static/js/main.2e62c612.chunk.js"
+    "static/js/main.a5ea9daf.chunk.js"
   ]
 }
